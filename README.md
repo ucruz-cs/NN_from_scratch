@@ -1,5 +1,5 @@
 
-# Neural Network from scratch (only NumPy)
+# Neural Network from scratch (NumPy only)
 
 This brief project was made to further learn and understand the math and code behind a basic Neural Network. The code is heavily based on the lecture ["Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)"](https://www.youtube.com/watch?v=w8yWXqWQYmU) from [Samson Zhang](https://www.youtube.com/@SamsonZhangTheSalmon) that's publicly avaliable on YouTube.
 
